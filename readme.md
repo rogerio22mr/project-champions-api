@@ -18,7 +18,7 @@ Project Champions is an Express-based API for managing football players and club
 
    ```sh
    git clone https://github.com/rogerio22mr/project-champions-api.git
-   cd project-champions
+   cd project-champions-api
    ```
 
 2. Install dependencies:
